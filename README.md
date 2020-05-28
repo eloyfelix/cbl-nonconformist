@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/eloyfelix/nonconformist.svg?branch=master)](https://travis-ci.org/eloyfelix/nonconformist)
+[![Build Status](https://travis-ci.org/eloyfelix/cbl-nonconformist.svg?branch=master)](https://travis-ci.org/eloyfelix/cbl-nonconformist)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/eloyfelix/nonconformist/master?filepath=README.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/eloyfelix/cbl-nonconformist/master?filepath=README.ipynb)
 
 # cbl-nonconformist
 
@@ -9,12 +9,6 @@ This is a fork of [nonconformist](https://github.com/donlnz/nonconformist) keepi
 Python implementation of the conformal prediction framework [1].
 
 Primarily to be used as an extension to the scikit-learn library.
-
-API documentation: http://donlnz.github.io/nonconformist/
-
-(API documentation is currently severely deprecated; for instructions on basic usage,
-please refer to [README.ipynb](https://github.com/donlnz/nonconformist/blob/master/README.ipynb), and the running examples
-available under [/examples/](https://github.com/donlnz/nonconformist/tree/master/examples) in the repository.)
 
 # Installation
 

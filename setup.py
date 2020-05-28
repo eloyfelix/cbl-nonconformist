@@ -4,13 +4,13 @@ from setuptools import setup
 import nonconformist
 
 setup(
-    name="nonconformist",
+    name="cbl-nonconformist",
     packages=["nonconformist"],
     version=nonconformist.__version__,
     description="Python implementation of the conformal prediction framework.",
     author="Henrik Linusson",
     author_email="henrik.linusson@gmail.com",
-    url="https://github.com/eloyfelix/nonconformist",
+    url="https://github.com/eloyfelix/cbl-nonconformist",
     download_url="",
     install_requires=["numpy", "scikit-learn>=0.20", "scipy", "pandas"],
     keywords=[
